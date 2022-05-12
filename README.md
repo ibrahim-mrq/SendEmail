@@ -23,7 +23,7 @@ implementation 'com.github.ibrahim-mrq:mrq:SendEmailAddress::1.0.1'
 or
    
 ```
- implementation project(path: ':SendEmailAddress')
+ implementation project(path: ':email')
  ```
 
   java
