@@ -38,7 +38,6 @@ or
     private static final String toEmailList = "";
     private static final String emailSubject = "";
     private static final String emailBody = "";
-    
 ```
 
 ``` java
