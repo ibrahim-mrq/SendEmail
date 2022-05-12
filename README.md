@@ -18,7 +18,7 @@ maven { url "https://jitpack.io" }
 2. build.gradle module
 
 ```
-implementation 'com.github.ibrahim-mrq:mrq:SendEmailAddress::1.0.0'
+implementation 'com.github.ibrahim-mrq:mrq:SendEmailAddress::1.0.1'
 ```
 or
    
