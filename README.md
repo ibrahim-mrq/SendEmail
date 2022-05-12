@@ -29,7 +29,18 @@ or
 <br/>
 
   java
+
   
+``` java
+
+    private static final String username = "";
+    private static final String password = "";
+    private static final String toEmailList = "";
+    private static final String emailSubject = "";
+    private static final String emailBody = "";
+    
+```
+
 ``` java
 
    SendEmailAddress address = new SendEmailAddress();
