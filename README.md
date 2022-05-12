@@ -1,6 +1,9 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fibrahim-mrq%2FSendEmailAddress.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fibrahim-mrq%2FSendEmailAddress?ref=badge_shield) [![](https://jitpack.io/v/ibrahim-mrq/SendEmail.svg)](https://jitpack.io/#ibrahim-mrq/SendEmail)
 
 
+## Description
+
+You can send an email without going to the email application through the application, but you have to change some security settings within the Gmail account.
 
 ## Getting Started
 These instructions will help you set up this library easily on your current project and working in no time. You only need a few configurations to start working!
@@ -25,7 +28,7 @@ or
 ```
  implementation project(path: ':email')
  ```
-
+## Using
   java
   
 ``` java
