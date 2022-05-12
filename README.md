@@ -25,11 +25,8 @@ or
 ```
  implementation project(path: ':SendEmailAddress')
  ```
- 
-<br/>
 
   java
-
   
 ``` java
 
@@ -41,13 +38,12 @@ or
 ```
 
 ``` java
-
    SendEmailAddress address = new SendEmailAddress();
         address.setListEmailReceiver(toEmailList);
         address.setEmailSubject(emailSubject);
         address.setEmailBody(emailBody);
         address.sendEmail(this, username, password);
-    
 ```
+
 <br/>
 
