@@ -8,11 +8,11 @@ import com.mrq.email.SendEmailAddress;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String username = "seven.arts.ku@gmail.com";
-    private static final String password = "fneyqxlrzjjdqbsi";
-    private static final String toEmailList = "abo.mahroq@gmail.com,abu.mahroq@hotmail.com";
+    private static final String username = "";
+    private static final String password = "";
+    private static final String toEmailList = "abo.mahroq@gmail.com,abo.mahroq@gmail.com";
     private static final String emailSubject = "subject";
-    private static final String emailBody = "Hello";
+    private static final String emailBody = "Body";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
