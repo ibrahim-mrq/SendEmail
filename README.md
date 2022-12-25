@@ -23,6 +23,8 @@ maven { url "https://jitpack.io" }
 
 ```
 implementation 'com.github.ibrahim-mrq:mrq:SendEmailAddress::1.0.1'
+implementation 'com.github.ibrahim-mrq:SendEmail:1.0.2'
+
 ```
 or
    
